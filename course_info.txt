@@ -1,0 +1,14 @@
+Course Code: DS135
+Course Name: Prepare for Broadway Auditions25
+TeacherId: 1
+
+Assessments:
+Assignment 1 | Due Date: 2024-10-10 12:00 | Max Score: 10 | Instruction: do your best | Type: teacher-assign | Required Reviews: 3
+Assignment 2 | Due Date: 2024-10-20 12:00 | Max Score: 10 | Instruction: you can do it!! | Type: teacher-assign | Required Reviews: 6
+Assignment 3 | Due Date: 2024-10-30 12:00 | Max Score: 10 | Instruction: never give up | Type: student-select | Required Reviews: 8
+
+Students:
+- S10000002
+- S10000004
+- S10000006
+- S10000008
